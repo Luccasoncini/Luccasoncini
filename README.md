@@ -1,8 +1,8 @@
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Oi 👋, me chamo Lucca
+Sou apenas mais um curioso da área de programação, acho muito interessante essa área.
+- 🔭 No momento me encontro cursando Sistemas de informação na faculdade ENIAC.
+- 🌱 Estou estudando técnologias como o trio (HTML/CSS/JS) e também tentando me profissionalizar no framework React.Js.
+- 🤝 Tenho como objetivo inicial arranjar um estágio como programador, e adquirir o conhecimento para trabalhar como programador Web senior.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luccasoncini)
 
