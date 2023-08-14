@@ -2,8 +2,9 @@
 Sou apenas mais um curioso da área de programação, acho muito interessante essa área.
 
 - 🔭 No momento me encontro cursando Sistemas de informação na faculdade ENIAC.
-- 🌱 Já estudei técnologias como o HTML, CSS e JS. Estou atualmente estudando o React.Js com o typescript, juntos são ferramentas poderosas.
-- 🤝 Tenho como objetivo conseguir uma vaga de junior, já fiz um estágio de 3 meses, e nesse período adquiri muitos conhecimentos em HTML, CSS e JS, desejo uma oportunidade de trabalho para mostrar meus conhecimentos, e minha força de vontade!.
+- 🌱 Já estudei técnologias como o HTML, CSS e JS, REACT, JQUERY, PHP, WORDPRESS, TAILWIND, BOOTSTRAP 4/5, SCSS.
+- 🚀 Atualmente me encontro trabalhando na Moderniza Group como desenvolvedor Front-end Junior.
+- 🤝 Tenho como objetivo conseguir me tornar um desenvolvedor FullStack, estou aprimorando meus conhecimentos em banco de dados, apis restfull e também no Prismic.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luccasoncini)
 
