@@ -10,4 +10,5 @@ Sou apenas mais um curioso da área de programação, acho muito interessante es
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucca-soncini-727930207//) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Luccasoncini/)
+[<img src = "https://img.shields.io/badge/PORTIFÓLIO-3e6ff4">](https://luccadiassoncini.vercel.app/)
 
