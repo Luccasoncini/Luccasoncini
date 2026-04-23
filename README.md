@@ -10,3 +10,5 @@ Sou apenas mais um curioso da área de programação, acho muito interessante es
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Luccasoncini/)
 [<img src = "https://img.shields.io/badge/portifólio-%3e6ff4.svg?Color=white?&style=for-the-badge&logo=instagrame">](https://luccadiassoncini.vercel.app/)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
