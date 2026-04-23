@@ -54,7 +54,7 @@ Hoje, meu objetivo vai além de código: transformar ideias em produtos digitais
 ## 🤝 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/lucca-soncini-727930207/">
+  <a href="https://www.linkedin.com/in/lucca-soncini">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/Luccasoncini/">
