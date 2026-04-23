@@ -10,9 +10,9 @@ Criar telas é fácil. Criar experiências memoráveis é arte.
 
 Sou desenvolvedor Front-end com +4 anos de experiência, especialista em React e TypeScript, focado na construção de interfaces modernas, performáticas e centradas no usuário.
 
-Já atuei no desenvolvimento de sistemas completos, plataformas SaaS, e-commerces e ERPs, sempre com foco em escalabilidade, organização e experiência do usuário.
+Atuo no desenvolvimento de sistemas completos, plataformas SaaS, e-commerces e ERPs, sempre com foco em escalabilidade, organização e experiência do usuário.
 
-Hoje, meu objetivo vai além de código: busco transformar ideias em produtos digitais bem estruturados e que realmente geram valor.
+Hoje, meu objetivo vai além de código: transformar ideias em produtos digitais bem estruturados, funcionais e intuitivos.
 
 ---
 
@@ -21,7 +21,7 @@ Hoje, meu objetivo vai além de código: busco transformar ideias em produtos di
 - ⚛️ React (avançado)
 - 🔷 TypeScript (avançado)
 - 🧠 Gerenciamento de estado (Redux / Context API)
-- 🎨 UI/UX com Material UI, Bootstrap e Design Systems
+- 🎨 UI/UX com Material UI e Design Systems
 - 💅 Styled-components, Tailwind, SCSS
 - 🎞️ Animações com Framer Motion
 - 🔌 Integrações com APIs REST
@@ -33,25 +33,35 @@ Hoje, meu objetivo vai além de código: busco transformar ideias em produtos di
 
 ## 💼 Experiência
 
-- Desenvolvimento de sistemas corporativos (ERP)
+- Sistemas corporativos (ERP)
 - Plataformas SaaS
 - E-commerce
-- Interfaces complexas e dashboards
+- Dashboards e interfaces complexas
 - Criação de Design Systems escaláveis
-- Foco em performance e SEO técnico
+- Otimização de performance e SEO técnico
 
 ---
 
 ## 📈 Atualmente
 
-- 🎯 Aprofundando conhecimentos em arquitetura FullStack
-- ⚙️ Evoluindo em backend com Node.js
+- 🎯 Evoluindo para FullStack
+- ⚙️ Aprofundando em arquitetura de sistemas
 - 🧩 Construindo projetos mais robustos e escaláveis
-- 🧠 Explorando novas formas de integrar IA no front-end
+- 🤖 Explorando aplicações de IA no front-end
 
 ---
 
-## 🌐 Contato
+## 🌐 Acesse meu portfólio
+
+<p align="center">
+  <a href="https://lucca-os.vercel.app/">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-000?&style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🤝 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/lucca-soncini-727930207/">
@@ -60,10 +70,6 @@ Hoje, meu objetivo vai além de código: busco transformar ideias em produtos di
 
   <a href="https://www.instagram.com/Luccasoncini/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://luccadiassoncini.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000?&style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
