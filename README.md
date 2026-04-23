@@ -11,4 +11,4 @@ Sou apenas mais um curioso da área de programação, acho muito interessante es
 [<img src = "https://img.shields.io/badge/portifólio-%3e6ff4.svg?Color=white?&style=for-the-badge&logo=instagrame">](https://luccadiassoncini.vercel.app/)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccasoncini&show_icons=true&theme=radical)
+
